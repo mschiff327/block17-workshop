@@ -55,6 +55,4 @@ const coffeeMenu = [
     }
 ]
 
-module.exports = coffeeMenu
-
-console.log(coffeeMenu)
+module.exports = coffeeMenu;
